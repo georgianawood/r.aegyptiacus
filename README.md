@@ -1,15 +1,12 @@
-### Understanding Egyptian Fruit Bat Communication
-Authors: Georgiana Wood
+### Modeling Contextual Influences on Vocal Communication in Egyptian Fruit
+Authors: Georgiana Wood, Nicolas Anderson, Ian Shuman
 
-Last Update: 03/05/2024
+Last Update: 03/27/2024
 
-GitHub repository: https://github.com/georgianawood/r.aegyptiacus.git
-
-Class: LIN 538 with Dr. Owen Rambow
+GitHub repository: https://github.com/georgianawood/r.aegyptiacus
 
 ---
 **Objectives:**
-Analyze the vocalization patterns and social interactions of Egyptian fruit bats (*Rousettus aegyptiacus*) to better understand their communication dynamics and social structure.
+This project aims to develop a machine learning model that integrates audio data and contextual information to understand the influence of social context on vocal communication dynamics between pairs of Egyptian fruit bats
 
-## **Assignment 1**
-## **Assignment 2**
+## **Pipeline**
